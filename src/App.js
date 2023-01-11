@@ -19,7 +19,7 @@ function App() {
           Link{" "}
         </p>
         <p className="lead">
-          <a href="webdevhw.wynisco.com">Here</a> Here is Homeworks Link{" "}
+          <a href="http://webdevhw.wynisco.com">Here</a> Here is Homeworks Link{" "}
         </p>
         <p className="lead">
           <a href="https://docs.google.com/spreadsheets/d/1I75Kt78QSCRSAiF74yBttNyWVI4bq2ONsTWnN_ai9iA/edit?usp=sharing">
